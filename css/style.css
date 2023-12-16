@@ -1,0 +1,157 @@
+.sheet1 {
+  background-image: url(../imge/img1.jpeg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.logo {
+  width: 40%;
+  float: left;
+  text-align: center;
+}
+.logo img {
+  width: 30%;
+}
+.navbar {
+  width: 60%;
+  padding-top: 10px;
+  float: left;
+  text-align: center;
+}
+a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+.clr1 {
+  clear: left;
+}
+
+.intro {
+  text-align: center;
+  width: 100%;
+  padding-top: 250px;
+  font-size: 30px;
+  color: white;
+}
+.btn1 {
+  background-color: rgb(187, 151, 104);
+  border: 0 transparent;
+  color: white;
+  padding: 7px;
+}
+.btn2 {
+  border: 2px solid white;
+  background-color: transparent;
+  color: white;
+  padding: 5px;
+}
+
+.img2 {
+  width: 50%;
+  float: left;
+  padding-top: 30px;
+  text-align: center;
+}
+.img2 img {
+  width: 80%;
+}
+.p1 {
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding-top: 30px;
+  color: rgb(129, 101, 68);
+}
+.clr2 {
+  clear: left;
+}
+.sheet3 {
+  background-color: rgba(183, 184, 184, 0.356);
+}
+.img3 {
+  width: 50%;
+  float: left;
+  padding-top: 30px;
+  text-align: center;
+}
+.img3 img {
+  width: 100%;
+}
+.p2 {
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding-top: 30px;
+  color: rgb(129, 101, 68);
+}
+.clr3 {
+  clear: left;
+}
+.p3 {
+  width: 50%;
+  float: left;
+  padding-top: 30px;
+  text-align: center;
+  color: rgb(129, 101, 68);
+}
+
+.location {
+  width: 50%;
+  float: left;
+  padding-top: 30px;
+  border: none;
+  text-align: center;
+}
+.clr4 {
+  clear: left;
+}
+.sheet5 {
+  background-color: rgba(183, 184, 184, 0.356);
+}
+.p4 {
+  text-align: center;
+  font-size: 10px;
+  margin-top: 40px;
+  color: rgb(129, 101, 68);
+}
+.img {
+  width: 33.3%;
+  float: left;
+  text-align: center;
+  font-size: 10px;
+  color: rgb(129, 101, 68);
+  margin-bottom: 30px;
+}
+.img img {
+  width: 90%;
+}
+.clr5 {
+  clear: left;
+}
+.footer1 {
+  background-color: rgb(48, 41, 41);
+}
+.text {
+  width: 25%;
+  float: left;
+  text-align: center;
+  font-size: 10px;
+  color: whitesmoke;
+}
+.clr6 {
+  clear: left;
+}
+.footer2 {
+  background-color: rgb(34, 28, 28);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 15px;
+  color: whitesmoke;
+}
+.footer2 img {
+  width: 20%;
+}
